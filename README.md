@@ -1,6 +1,6 @@
 ### Olá, eu sou Thamirys Cardoso 👋
 
- 🌱 Estou atualmente estudando desenvolvimento Backend na Cubos Academy e Analise e Desenvolvimento de Sistemas na Anhanguera
+ 🌱 Estou atualmente estudando desenvolvimento Back-End na Cubos Academy e Analise e Desenvolvimento de Sistemas na Anhanguera
 
 ⚡ Fun fact: Sou Bacharel em Moda e estou migrando para a carreira de Desenvolvedora
 
