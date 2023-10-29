@@ -5,8 +5,9 @@
 ⚡ Fun fact: Sou Bacharel em Moda e estou migrando para a carreira de Desenvolvedora
 
 <div style="display: inline_block"><br>
- (https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- (https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  <img align="center" alt="Rafa-Js" height="30" width="40" 
+   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
 </div>
   
   ##
