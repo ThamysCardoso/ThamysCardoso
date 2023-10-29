@@ -4,11 +4,13 @@
 
 ⚡ Fun fact: Sou Bacharel em Moda e estou migrando para a carreira de Desenvolvedora
 
+ <div style="display: inline_block"><br>
+  <img align="right" 
+   src="https://github.com/ThamysCardoso/ThamysCardoso/assets/107047967/20baaab5-6d2f-4bd2-a61e-6279454c2e25">
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" 
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   
-
           
  
 </div>
@@ -21,6 +23,6 @@
   <a href = "mailto:thamiryscardoso7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thamirys-cardoso-b00b1a121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
-  <img src="https://i.picasion.com/pic92/bae53e68a01d647f0665b000b8d02ae1.gif"  border="0" alt="https://picasion.com/">
 </div>
+
+
